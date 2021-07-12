@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\Backjoon\10974(모든 순열)\10974(모든 순열)\소스.cpp(25,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  10974(모든 순열).vcxproj -> D:\Backjoon\10974(모든 순열)\Debug\10974(모든 순열).exe

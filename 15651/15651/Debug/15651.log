@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Backjoon\15651\15651\소스.cpp(13,9): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+D:\Backjoon\15651\15651\소스.cpp(13,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  15651.vcxproj -> D:\Backjoon\15651\Debug\15651.exe

@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\Backjoon\1373(2진수 8진수)\1373(2진수 8진수)\소스.cpp(14,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\1373(2진수 8진수)\1373(2진수 8진수)\소스.cpp(29,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\1373(2진수 8진수)\1373(2진수 8진수)\소스.cpp(38,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1373(2진수 8진수).vcxproj -> D:\Backjoon\1373(2진수 8진수)\Debug\1373(2진수 8진수).exe

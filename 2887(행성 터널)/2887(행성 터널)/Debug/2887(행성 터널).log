@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Backjoon\2887(행성 터널)\2887(행성 터널)\소스.cpp(15,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+D:\Backjoon\2887(행성 터널)\2887(행성 터널)\소스.cpp(21,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'point' 왼쪽은 무시됩니다.
+  2887(행성 터널).vcxproj -> D:\Backjoon\2887(행성 터널)\Debug\2887(행성 터널).exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2887(행성 터널)", "2887(행성 터널)\2887(행성 터널).vcxproj", "{902BEF6C-1CB0-46A2-B235-5448B8C41552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Debug|x64.ActiveCfg = Debug|x64
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Debug|x64.Build.0 = Debug|x64
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Debug|x86.ActiveCfg = Debug|Win32
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Debug|x86.Build.0 = Debug|Win32
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Release|x64.ActiveCfg = Release|x64
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Release|x64.Build.0 = Release|x64
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Release|x86.ActiveCfg = Release|Win32
+		{902BEF6C-1CB0-46A2-B235-5448B8C41552}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89DF77AE-F6CF-4F2E-8178-2CD4335FAF98}
+	EndGlobalSection
+EndGlobal

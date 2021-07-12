@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Backjoon\9935(문자열 폭발)\9935(문자열 폭발)\소스.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\9935(문자열 폭발)\9935(문자열 폭발)\소스.cpp(25,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  9935(문자열 폭발).vcxproj -> D:\Backjoon\9935(문자열 폭발)\Debug\9935(문자열 폭발).exe

@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\Backjoon\2745(진법 변환)\2745(진법 변환)\소스.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2745(진법 변환).vcxproj -> D:\Backjoon\2745(진법 변환)\Debug\2745(진법 변환).exe

@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\Backjoon\10808(알파벳 개수)\10808(알파벳 개수)\소스.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  10808(알파벳 개수).vcxproj -> D:\Backjoon\10808(알파벳 개수)\Debug\10808(알파벳 개수).exe

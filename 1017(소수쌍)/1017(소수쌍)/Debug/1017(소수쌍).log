@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\Backjoon\1017(소수쌍)\1017(소수쌍)\소스.cpp(68,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\1017(소수쌍)\1017(소수쌍)\소스.cpp(69,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\1017(소수쌍)\1017(소수쌍)\소스.cpp(85,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1017(소수쌍).vcxproj -> D:\Backjoon\1017(소수쌍)\Debug\1017(소수쌍).exe

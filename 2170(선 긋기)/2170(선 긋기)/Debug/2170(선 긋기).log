@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\Backjoon\2170(선 긋기)\2170(선 긋기)\소스.cpp(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2170(선 긋기).vcxproj -> D:\Backjoon\2170(선 긋기)\Debug\2170(선 긋기).exe

@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\Backjoon\11656(접미사 배열)\11656(접미사 배열)\소스.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  11656(접미사 배열).vcxproj -> D:\Backjoon\11656(접미사 배열)\Debug\11656(접미사 배열).exe

@@ -1,0 +1,10 @@
+﻿  11438.cpp
+D:\Backjoon\11438(lca2)\11438(lca2)\11438.cpp(54,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\11438(lca2)\11438(lca2)\11438.cpp(37,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+D:\Backjoon\11438(lca2)\11438(lca2)\11438.cpp(41,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+D:\Backjoon\11438(lca2)\11438(lca2)\11438.cpp(76,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+D:\Backjoon\11438(lca2)\11438(lca2)\11438.cpp(79,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.

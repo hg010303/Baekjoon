@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17435(합성함수와 쿼리)", "17435(합성함수와 쿼리)\17435(합성함수와 쿼리).vcxproj", "{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Debug|x64.ActiveCfg = Debug|x64
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Debug|x64.Build.0 = Debug|x64
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Debug|x86.ActiveCfg = Debug|Win32
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Debug|x86.Build.0 = Debug|Win32
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Release|x64.ActiveCfg = Release|x64
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Release|x64.Build.0 = Release|x64
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Release|x86.ActiveCfg = Release|Win32
+		{46F552AD-33CB-4D20-BE10-EA63A82A7ADC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAF09AB9-5442-43A2-A7CA-915808331517}
+	EndGlobalSection
+EndGlobal

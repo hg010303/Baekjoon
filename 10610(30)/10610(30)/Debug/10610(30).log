@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Backjoon\10610(30)\10610(30)\소스.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\10610(30)\10610(30)\소스.cpp(32,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  10610(30).vcxproj -> D:\Backjoon\10610(30)\Debug\10610(30).exe

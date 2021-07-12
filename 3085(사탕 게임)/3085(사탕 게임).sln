@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3085(사탕 게임)", "3085(사탕 게임)\3085(사탕 게임).vcxproj", "{A258D668-B417-4556-BAD5-B16F63B83EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Debug|x64.ActiveCfg = Debug|x64
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Debug|x64.Build.0 = Debug|x64
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Debug|x86.Build.0 = Debug|Win32
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Release|x64.ActiveCfg = Release|x64
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Release|x64.Build.0 = Release|x64
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Release|x86.ActiveCfg = Release|Win32
+		{A258D668-B417-4556-BAD5-B16F63B83EDD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86632CF4-D348-440C-B473-D248E5424EED}
+	EndGlobalSection
+EndGlobal

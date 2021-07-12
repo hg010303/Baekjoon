@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Backjoon\1339(단어 수학)\1339(단어 수학)\소스.cpp(20,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backjoon\1339(단어 수학)\1339(단어 수학)\소스.cpp(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1339(단어 수학).vcxproj -> D:\Backjoon\1339(단어 수학)\Debug\1339(단어 수학).exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11049(행렬곱셈순서)", "11049(행렬곱셈순서)\11049(행렬곱셈순서).vcxproj", "{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Debug|x64.ActiveCfg = Debug|x64
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Debug|x64.Build.0 = Debug|x64
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Debug|x86.Build.0 = Debug|Win32
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Release|x64.ActiveCfg = Release|x64
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Release|x64.Build.0 = Release|x64
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Release|x86.ActiveCfg = Release|Win32
+		{F8F0F2C0-CCAB-477E-AD51-A917EE12E3ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DB79A1-67DA-4387-BA63-AA54F573AB30}
+	EndGlobalSection
+EndGlobal
